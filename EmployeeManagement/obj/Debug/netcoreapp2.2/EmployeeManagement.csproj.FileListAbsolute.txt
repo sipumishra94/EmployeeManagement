@@ -11,4 +11,14 @@ E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcor
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.dll
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.input.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.TagHelpers.output.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorCoreGenerate.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.Views.pdb
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
