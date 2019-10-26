@@ -24,4 +24,5 @@ E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcor
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache

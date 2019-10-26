@@ -10,5 +10,11 @@
       "library": "jquery@3.4.1",
       "destination": "wwwroot/lib/jquery/"
     }
-  ]
+  ,
+{
+  "provider": "cdnjs",
+  "library": "jquery@3.4.1",
+  "destination": "wwwroot/lib/jquery/"
+}
+]
 }
