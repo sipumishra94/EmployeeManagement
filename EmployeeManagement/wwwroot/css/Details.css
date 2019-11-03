@@ -3,3 +3,8 @@
     min-height: 150px;
     object-fit: cover;
 }
+
+.imageThumbNail {
+    height:200px;
+    width:auto;
+}

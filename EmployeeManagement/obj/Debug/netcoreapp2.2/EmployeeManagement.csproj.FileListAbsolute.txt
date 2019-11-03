@@ -26,3 +26,8 @@ E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcor
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\EmployeeNotFound.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
