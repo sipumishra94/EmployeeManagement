@@ -32,3 +32,5 @@ E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcor
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
 E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+E:\Kudvenkat_Asp.Net core\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
