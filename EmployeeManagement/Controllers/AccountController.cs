@@ -102,5 +102,12 @@ namespace EmployeeManagement.Controllers
             }
             return View();
         }
+
+        [AllowAnonymous]
+        [HttpGet]
+        public IActionResult AcessDenied()
+        {
+            return View("AccessDenied.cshtml");
+        }
     }
 }
